@@ -1,15 +1,15 @@
 # SQJoke
-***SQJoke*** (aka _**Superquark** Joke_) refers to the omonimous well-known italian TV programme about cultural divulgation.
+***SQJoke*** (aka _**Superquark** Joke_) refers to the namesake and well-known italian TV programme on cultural divulgation.
 
-It reproduces the solemn [Orchestral suites of Johann Sebastian Bach](https://en.wikipedia.org/wiki/Air_on_the_G_String), which introduces this TV programme.
+It reproduces the solemn [Orchestral suites of Johann Sebastian Bach](https://en.wikipedia.org/wiki/Air_on_the_G_String), which is the theme song of this TV programme.
 
 ### AYFKM? What it does?
-As already said, this stupid app simply reproduce that song.
+As already said, this stupid app simply reproduces that song.
 
 ## Usage
 The right question is *when* to use this app:
 
-* When arrives that prolix friend that shoots bullshit but you are more stupid than him and you have to prove it speaking over him with this soundtrack
+* When that rambling friend who talks shit arrives, but you want to prove you are stupider than him and you have to prove it while speaking over him accompained by this soundtrack
 * If you are [Piero Angela](https://en.wikipedia.org/wiki/Piero_Angela), [Alberto Angela](https://en.wikipedia.org/wiki/Alberto_Angela) or you want to appear cool like them
 * To solemnify that absolutely crucial speech
 
