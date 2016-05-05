@@ -1,7 +1,7 @@
 # SQJoke
 ***SQJoke*** (aka _**Superquark** Joke_) refers to the omonimous well-known italian TV programme about cultural divulgation.
 
-It reproduces the solemn [Orchestral suites of Johann Sebastian Bach](https://en.wikipedia.org/wiki/Orchestral_suites_%28Bach%29|Orchestral suites of Johann Sebastian Bach), which introduces this TV programme.
+It reproduces the solemn [Orchestral suites of Johann Sebastian Bach](https://en.wikipedia.org/wiki/Air_on_the_G_String), which introduces this TV programme.
 
 ### AYFKM? What it does?
 As already said, this stupid app simply reproduce that song.
@@ -13,7 +13,7 @@ The right question is *when* to use this app:
 * If you are [Piero Angela](https://en.wikipedia.org/wiki/Piero_Angela), [Alberto Angela](https://en.wikipedia.org/wiki/Alberto_Angela) or you want to appear cool like them
 * To solemnify that absolutely crucial speech
 
-Other uses of this app are unknown, but it's absolutelly necessary when you're reading "fuffa-documents" a.k.a SalvatoreAranzulla-like unuseful posts ([example](https://whilefalsedonothing.wordpress.com/2016/04/24/accurata-descrizione-delle-guide-informatiche-scritte-da-incompetenti/)).
+Other uses of this app are unknown, but it's absolutelly necessary when you're reading "fuffa-documents" a.k.a SalvatoreAranzulla-like unuseful posts ([example](https://whilefalsedonothing.wordpress.com/2016/04/24/accurata-descrizione-delle-guide-informatiche-scritte-da-incompetenti/#esempio-esplicativo)).
 
 Sorry if some of these examples can't be explained to non-italian people.
 
